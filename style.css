@@ -1,0 +1,1399 @@
+#text{
+width: 690px;
+font-family: Forum;
+font-size: 112px;
+font-weight: 400;
+line-height: 138.88px;
+text-align: left;
+
+}
+
+#book{
+    position: absolute;
+    top: 650px;
+    right:150px;
+}
+
+#text2{
+    width: 309px;
+gap: 0px;
+opacity: 0px;
+}
+
+#para{
+    width: 300px;
+}
+
+
+#enjoy{
+    margin-top:150px;
+}
+#frame{
+    margin-top: 250px;
+}
+/* 
+#roomcard{
+    width:65%;
+    height: 10%;
+    z-index: 2;
+    position: relative;
+    left:140px;
+    top: 80px;
+}
+
+#image-3{
+    z-index: 1;
+    
+}
+#text3{
+    font-size: 50px;
+    width: 500px;
+}
+
+#line{
+    padding-top: 100px;
+} */
+
+
+#text4{
+    width:700px;
+height: 81px;
+gap: 0px;
+opacity: 0px;
+font-size: 18px;
+font-weight: 300;
+line-height: 27px;
+text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+#text-5{
+    font-size:44px;
+    width: 50%;
+}
+
+@media screen and (max-width:991px) {
+    #book{
+        position: absolute;
+    top: 550px;
+    right:80px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #text{
+        width: 550px;
+font-family: Forum;
+font-size: 82px;
+font-weight: 400;
+line-height: 138.88px;
+text-align: left;
+    }
+
+    #book{
+        position: absolute;
+    top: 550px;
+    right:40px;
+    }
+    #frame{
+        margin-top: 200px;
+    }
+    #roomcard{
+        width:55%;
+        height: 0%;
+        z-index: 2;
+        position: relative;
+        left:80px;
+        top: 50px;
+    }
+    #image-3{
+        display: flex;
+    flex-direction: column-reverse;
+        
+    }
+    #text4{
+        width:500px;
+        font-size: 13px;
+    }
+
+    #text-5{
+        font-size:24px;
+        width: 40%;
+    }
+}
+@media screen and (max-width:570px) {
+    #text{
+        width: 400px;
+font-family: Forum;
+font-size: 62px;
+font-weight: 400;
+line-height: 80.88px;
+text-align: left;
+    }
+#frame{
+    margin-top: 200px;
+}
+
+#text4{
+    width:400px;
+    font-size: 11px;
+}
+
+
+    #book{
+        position: absolute;
+    top: 470px;
+    right:50px;
+    }
+
+    #text-5{
+        font-size:20px;
+        width:50%;
+    }
+
+}
+
+@media screen and (max-width:415px) {
+    #text{
+        width: 300px;
+font-family: Forum;
+font-size: 42px;
+font-weight: 400;
+line-height: 80.88px;
+text-align: left;
+    }
+
+    #book{
+        position: absolute;
+    top: 490px;
+    right:20px;
+    }
+    #frame{
+        margin-top: 250px;
+    }
+    #text4{
+        width:300px;
+        font-size: 10px;
+    }
+    
+    #text-5{
+        font-size:15px;
+        width:50%;
+    }
+
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#heading-1 {
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+}
+
+#Perfect {
+    width: 700px;
+    font-family: "Forum";
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 138.88px;
+}
+
+#Discover {
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+    color: #BF9766;
+
+}
+
+#Luxury {
+    font-family: "Forum";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+    color: #171717;
+}
+
+#sit {
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+}
+
+#choices {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+}
+
+#Suites {
+    font-family: "Forum";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+}
+
+#customer {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    letter-spacing: 0.24em;
+}
+
+#image {
+    position: absolute;
+    top: 550px;
+    right: 100px;
+}
+
+#white {
+    position: relative;
+    width:50%;
+    height: 370px;
+    top: 40px;
+    left: 90px;
+}
+
+input{
+    width: 200px;
+}
+#Client {
+    font-family: "Forum";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+}
+
+#adipiscing {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    text-align: center;
+    width: 757px;
+}
+
+#team {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+    text-align: center;
+    color: #BF9766;
+}
+
+#Persons {
+    font-family: Forum;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+    text-align: center;
+    color: white;
+}
+
+#local {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+    text-align: left;
+}
+
+#Update {
+    font-family: Forum;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+    text-align: left;
+}
+
+#Experience {
+    font-family: Forum;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 80.64px;
+    text-align: left;
+    width: 750px;
+}
+#ipsum{
+font-family: Poppins;
+font-size: 14px;
+font-weight: 300;
+line-height: 21px;
+text-align: left;
+width: 381px;
+}
+#logo{
+    width: 350px;
+}
+
+#foot-text{
+    width:300px;
+font-size: 14px;
+font-weight: 300;
+line-height: 21px;
+text-align: left;
+}
+
+#text-6{
+    width: 250px;
+}
+
+::placeholder{
+    color: #BF9766;
+}
+@media screen and (max-width:992px) {
+    #heading-1 {
+        font-size: 20px;
+        line-height: 36px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 500px;
+        font-size: 60px;
+        line-height: 100px;
+    }
+
+    #Discover {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    #Luxury {
+        font-size: 64px;
+        line-height: 80.64px;
+    }
+
+    #sit {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #choices {
+        font-size: 22px;
+        line-height: 16px;
+
+    }
+
+    #Suites {
+        font-size: 53px;
+        line-height: 10px;
+        margin-bottom: 20px;
+    }
+
+    #customer {
+        font-size: 18px;
+    }
+
+    #image {
+        position: absolute;
+        top: 420px;
+        right: 40px;
+    }
+
+    #white {
+        position: relative;
+        height: 350px;
+        top: 27px;
+        left: 90px;
+    }
+
+    #Client {
+        font-size: 54px;
+        line-height: 70.64px;
+    }
+
+    #adipiscing {
+        font-size: 13px;
+        line-height: 25px;
+        width: 464px;
+    }
+
+    #team {
+        font-size: 22px;
+        line-height: 36px;
+
+    }
+
+    #Persons {
+        font-size: 54px;
+        line-height: 70.64px;
+    }
+
+    #local {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    #Update {
+        font-size: 64px;
+        line-height: 70.64px;
+    }
+
+    #Experience {
+        font-size: 62px;
+        line-height: 70.64px;
+        width: 290px;
+    }
+    #ipsum{
+        font-size: 14px;
+        line-height: 20px;
+        width: 380px;
+        }
+        #logo{
+            width: 150px;
+        }
+
+}
+
+@media screen and (max-width:768px) {
+    #heading-1 {
+        font-size: 20px;
+        line-height: 36px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 500px;
+        font-size: 60px;
+        line-height: 100px;
+    }
+
+    #Discover {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #Luxury {
+        font-size: 50px;
+        line-height: 60.64px;
+    }
+
+    #sit {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    #choices {
+        font-size: 20px;
+        line-height: 33x;
+
+    }
+
+    #Suites {
+        font-size: 48px;
+        line-height: 40.64px;
+        margin-bottom: 30px;
+    }
+
+    #customer {
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.22em;
+    }
+
+    #white {
+        position: relative;
+        height: 350px;
+        top: 27px;
+        left: 90px;
+    }
+
+    #Client {
+        font-size: 44px;
+        line-height: 70.64px;
+    }
+
+    #adipiscing {
+        font-size: 13px;
+        line-height: 19px;
+        width: 464px;
+    }
+
+    #team {
+        font-size: 18px;
+        line-height: 27px;
+
+    }
+
+    #Persons {
+        font-size: 40px;
+        line-height: 50.64px;
+    }
+
+    #local {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Update {
+        font-size: 50px;
+        line-height: 40.64px;
+    }
+
+    #Experience {
+        font-size: 40px;
+        line-height: 50.64px;
+        width: 290px;
+    }
+    #ipsum{
+        font-size: 13px;
+        line-height: 19px;
+        width: 180px;
+        }
+        #logo{
+            width: 150px;
+        }
+}
+
+@media screen and (max-width:520px) {
+    #heading-1 {
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 390px;
+        font-size: 55x;
+        line-height: 70px;
+    }
+
+    #Discover {
+        font-size: 19px;
+        line-height: 12px;
+        margin: 0px;
+    }
+
+    #Luxury {
+        font-size: 35px;
+        line-height: 10.64px;
+        margin-top: 20px;
+    }
+
+    #sit {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #choices {
+        font-size: 18px;
+        line-height: 18px;
+
+    }
+
+    #Suites {
+        font-size: 33px;
+        line-height: 10px;
+        margin-bottom: 20px;
+    }
+
+    #customer {
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: 0.20em;
+    }
+
+    #image {
+        position: absolute;
+        top: 660px;
+        right: 5px;
+    }
+
+    #frame {
+        margin-top: 450px;
+    }
+
+    #small {
+        width: 100px;
+        margin-top: 20px;
+    }
+
+    #Around {
+        width: 178px;
+        font-family: Poppins;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 19.5px;
+    }
+
+    #white {
+        position: relative;
+        top: -18px;
+        left: 8px;
+        width: 320px;
+    }
+
+    #Client {
+        font-size: 35px;
+        line-height: 44px;
+    }
+
+    #adipiscing {
+        font-size: 11px;
+        line-height: 25px;
+        width: 360px;
+    }
+
+    #team {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Persons {
+        font-size: 35px;
+        line-height: 24.64px;
+        width: 300px;
+    }
+
+    #local {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Update {
+        font-size: 35px;
+        line-height: 40.64px;
+    }
+
+    #Experience {
+        font-size: 25px;
+        line-height: 36px;
+        width: 205px;
+    }
+    #ipsum{
+        font-size: 13px;
+        line-height: 19px;
+        width: 320px;
+        }
+        #logo{
+            width: 140px;
+        }
+}
+
+@media screen and (max-width:380px) {
+    #heading-1 {
+        font-size: 11px;
+        line-height: 25px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 240px;
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    #Discover {
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    #Luxury {
+        font-size: 27px;
+        line-height: 40.64px;
+    }
+
+    #sit {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    #choices {
+        font-size: 15px;
+        line-height: 16px;
+
+    }
+
+    #Suites {
+        font-size: 22px;
+        line-height: 20.64px;
+    }
+
+    #customer {
+        font-size: 18px;
+        line-height: 17px;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+
+    #image {
+        left: 3px;
+    }
+
+    #frame {
+        margin-top: 450px;
+    }
+
+    #small {
+        width: 100px;
+    }
+
+    #white {
+        left: 0px;
+    }
+
+    #Client {
+        font-size: 24px;
+        line-height: 15.64px;
+    }
+
+    #team {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Persons {
+        font-size: 30px;
+        line-height: 38.64px;
+        width: 380px;
+    }
+
+    #local {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Update {
+        font-size: 32px;
+        line-height: 37.64px;
+    }
+
+    #Experience {
+        font-size: 20px;
+        line-height: 30.64px;
+        width: 190PX;
+    }
+    #ipsum{
+        font-size: 13px;
+        line-height: 16px;
+        width: 250px;
+        }
+        #logo{
+            width: 130px;
+        }
+        
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#heading-1 {
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+}
+
+#Perfect {
+    width: 700px;
+    font-family: "Forum";
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 138.88px;
+}
+
+#Discover {
+    font-family: "Poppins";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+    color: #BF9766;
+
+}
+
+#Luxury {
+    font-family: "Forum";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+    color: #171717;
+}
+
+#sit {
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+}
+
+#choices {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+}
+
+#Suites {
+    font-family: "Forum";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+}
+
+#customer {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    letter-spacing: 0.24em;
+}
+
+#image {
+    position: absolute;
+    top: 550px;
+    right: 100px;
+}
+
+#white {
+    position: relative;
+    height: 370px;
+    top: 40px;
+    left: 90px;
+}
+
+#Client {
+    font-family: "Forum";
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+}
+
+#adipiscing {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    text-align: center;
+    width: 757px;
+}
+
+#team {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+    text-align: center;
+    color: #BF9766;
+}
+
+#Persons {
+    font-family: Forum;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+    text-align: center;
+    color: white;
+}
+
+#local {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    letter-spacing: 0.24em;
+    text-align: left;
+}
+
+#Update {
+    font-family: Forum;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 80.64px;
+    text-align: left;
+}
+
+#Experience {
+    font-family: Forum;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 80.64px;
+    text-align: left;
+    width: 750px;
+}
+#ipsum{
+font-family: Poppins;
+font-size: 14px;
+font-weight: 300;
+line-height: 21px;
+text-align: left;
+width: 381px;
+}
+#logo{
+    width: 350px;
+}
+#line{
+    width: 300px;
+}
+@media screen and (max-width:992px) {
+    #heading-1 {
+        font-size: 20px;
+        line-height: 36px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 500px;
+        font-size: 60px;
+        line-height: 100px;
+    }
+
+    #Discover {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    #Luxury {
+        font-size: 64px;
+        line-height: 80.64px;
+    }
+
+    #sit {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #choices {
+        font-size: 22px;
+        line-height: 16px;
+
+    }
+
+    #Suites {
+        font-size: 53px;
+        line-height: 10px;
+        margin-bottom: 20px;
+    }
+
+    #customer {
+        font-size: 18px;
+    }
+
+    #image {
+        position: absolute;
+        top: 420px;
+        right: 40px;
+    }
+
+    #white {
+        position: relative;
+        height: 350px;
+        top: 27px;
+        left: 90px;
+    }
+
+    #Client {
+        font-size: 54px;
+        line-height: 70.64px;
+    }
+
+    #adipiscing {
+        font-size: 13px;
+        line-height: 25px;
+        width: 464px;
+    }
+
+    #team {
+        font-size: 22px;
+        line-height: 36px;
+
+    }
+
+    #Persons {
+        font-size: 54px;
+        line-height: 70.64px;
+    }
+
+    #local {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    #Update {
+        font-size: 64px;
+        line-height: 70.64px;
+    }
+
+    #Experience {
+        font-size: 62px;
+        line-height: 70.64px;
+        width: 290px;
+    }
+    #ipsum{
+        font-size: 14px;
+        line-height: 20px;
+        width: 380px;
+        }
+        #logo{
+            width: 150px;
+        }
+        #line{
+            width: 400px;
+        }
+        
+
+}
+
+@media screen and (max-width:768px) {
+    #heading-1 {
+        font-size: 20px;
+        line-height: 36px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 500px;
+        font-size: 60px;
+        line-height: 100px;
+    }
+
+    #Discover {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    #Luxury {
+        font-size: 50px;
+        line-height: 60.64px;
+    }
+
+    #sit {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    #choices {
+        font-size: 20px;
+        line-height: 33x;
+
+    }
+
+    #Suites {
+        font-size: 48px;
+        line-height: 40.64px;
+        margin-bottom: 30px;
+    }
+
+    #customer {
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.22em;
+    }
+
+    #white {
+        position: relative;
+        height: 350px;
+        top: 27px;
+        left: 90px;
+    }
+
+    #Client {
+        font-size: 44px;
+        line-height: 70.64px;
+    }
+
+    #adipiscing {
+        font-size: 13px;
+        line-height: 19px;
+        width: 464px;
+    }
+
+    #team {
+        font-size: 18px;
+        line-height: 27px;
+
+    }
+
+    #Persons {
+        font-size: 40px;
+        line-height: 50.64px;
+    }
+
+    #local {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Update {
+        font-size: 50px;
+        line-height: 40.64px;
+    }
+
+    #Experience {
+        font-size: 40px;
+        line-height: 50.64px;
+        width: 290px;
+    }
+    #ipsum{
+        font-size: 13px;
+        line-height: 19px;
+        width: 180px;
+        }
+        #logo{
+            width: 150px;
+        }
+        #line{
+            width: 300px;
+        }
+        
+}
+
+@media screen and (max-width:520px) {
+    #heading-1 {
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 390px;
+        font-size: 55x;
+        line-height: 70px;
+    }
+
+    #Discover {
+        font-size: 19px;
+        line-height: 12px;
+        margin: 0px;
+    }
+
+    #Luxury {
+        font-size: 35px;
+        line-height: 10.64px;
+        margin-top: 20px;
+    }
+
+    #sit {
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    #choices {
+        font-size: 18px;
+        line-height: 18px;
+
+    }
+
+    #Suites {
+        font-size: 33px;
+        line-height: 10px;
+        margin-bottom: 20px;
+    }
+
+    #customer {
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: 0.20em;
+    }
+
+    #image {
+        position: absolute;
+        top: 660px;
+        right: 5px;
+    }
+
+    #frame {
+        margin-top: 450px;
+    }
+
+    #small {
+        width: 100px;
+        margin-top: 20px;
+    }
+
+    #Around {
+        width: 178px;
+        font-family: Poppins;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 19.5px;
+    }
+
+    #white {
+        position: relative;
+        top: -18px;
+        left: 8px;
+        width: 320px;
+    }
+
+    #Client {
+        font-size: 35px;
+        line-height: 44px;
+    }
+
+    #adipiscing {
+        font-size: 11px;
+        line-height: 25px;
+        width: 360px;
+    }
+
+    #team {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Persons {
+        font-size: 35px;
+        line-height: 24.64px;
+        width: 300px;
+    }
+
+    #local {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Update {
+        font-size: 35px;
+        line-height: 40.64px;
+    }
+
+    #Experience {
+        font-size: 25px;
+        line-height: 36px;
+        width: 205px;
+    }
+    #ipsum{
+        font-size: 13px;
+        line-height: 19px;
+        width: 320px;
+        }
+        #logo{
+            width: 140px;
+        }
+        #line{
+            width: 100px;
+        }
+        
+}
+
+@media screen and (max-width:380px) {
+    #heading-1 {
+        font-size: 11px;
+        line-height: 25px;
+        letter-spacing: 0.24em;
+    }
+
+    #Perfect {
+        width: 240px;
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    #Discover {
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    #Luxury {
+        font-size: 27px;
+        line-height: 40.64px;
+    }
+
+    #sit {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    #choices {
+        font-size: 15px;
+        line-height: 16px;
+
+    }
+
+    #Suites {
+        font-size: 22px;
+        line-height: 20.64px;
+    }
+
+    #customer {
+        font-size: 18px;
+        line-height: 17px;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+
+    #image {
+        left: 3px;
+    }
+
+    #frame {
+        margin-top: 450px;
+    }
+
+    #small {
+        width: 100px;
+    }
+
+    #white {
+        left: 0px;
+    }
+
+    #Client {
+        font-size: 24px;
+        line-height: 15.64px;
+    }
+
+    #team {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Persons {
+        font-size: 30px;
+        line-height: 38.64px;
+        width: 380px;
+    }
+
+    #local {
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #Update {
+        font-size: 32px;
+        line-height: 37.64px;
+    }
+
+    #Experience {
+        font-size: 20px;
+        line-height: 30.64px;
+        width: 190PX;
+    }
+    #ipsum{
+        font-size: 13px;
+        line-height: 16px;
+        width: 250px;
+        }
+        #logo{
+            width: 130px;
+        }
+        
+        #line{
+            width: 80px;
+        }
+
+}
+
